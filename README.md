@@ -24,7 +24,7 @@ A beautiful and interactive memory card game built with HTML, CSS, and JavaScrip
 
 ## Screenshots
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](game-screenshot.png)
 
 ## License
 
